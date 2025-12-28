@@ -365,8 +365,7 @@ const CONFIG = {
 ## 致谢
 
 - 原项目作者: [lza6](https://github.com/lza6)
-- Typli.ai 提供的免费 AI 服务
-- Cloudflare Workers 提供的边缘计算平台
+- 各位贡献者
 
 ---
 
