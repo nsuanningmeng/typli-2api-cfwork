@@ -146,7 +146,7 @@ const CONFIG = {
     // 聊天模型
     "grok-4-fast": "xai/grok-4-fast",
     "grok-4-fast-reasoning": "xai/grok-4-fast-reasoning",
-    "claude-3-5-haiku-latest": "anthropic/claude-haiku-4-5",
+    "claude-haiku-4-5-20251001": "anthropic/claude-haiku-4-5",
     "gpt-5.2": "openai/gpt-5.2",
     "gpt-5": "openai/gpt-5",
     "gpt-5-mini": "openai/gpt-5-mini",
